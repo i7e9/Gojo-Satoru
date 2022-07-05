@@ -1,0 +1,10 @@
+2022-07-05T20:54:49.448991+00:00 app[worker.1]: 0|index  |     at Object.<anonymous> (/app/index.js:10:30)
+2022-07-05T20:54:49.449016+00:00 app[worker.1]: 0|index  |     at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2022-07-05T20:54:49.449036+00:00 app[worker.1]: 0|index  |     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-07-05T20:54:49.449065+00:00 app[worker.1]: 0|index  |     at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-07-05T20:54:49.449078+00:00 app[worker.1]: 0|index  |     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-07-05T20:54:49.449106+00:00 app[worker.1]: 0|index  |     at Object.<anonymous> (/app/.heroku/node/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2022-07-05T20:54:49.449122+00:00 app[worker.1]: 0|index  |     at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2022-07-05T20:54:49.449147+00:00 app[worker.1]: 0|index  |     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2022-07-05T20:54:49.453660+00:00 app[worker.1]: PM2      | App [index:0] exited with code [1] via signal [SIGINT]
+2022-07-05T20:54:49.454399+00:00 app[worker.1]: PM2      | Script /app/index.js had too many unstable restarts (16). Stopped. "errored"
